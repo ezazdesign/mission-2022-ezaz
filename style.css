@@ -46,3 +46,54 @@ body {
     font-size: 12px;
 
 }
+
+.flexible {
+    display: flex;
+    margin: 60px;
+    margin-bottom: 100px;
+
+
+}
+
+.design-2022 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.design-2022 span {
+    color: #FFad5a;
+}
+
+.width-33-img {
+    height: 141px;
+    width: 141px;
+    border-radius: 0px;
+
+}
+
+.mission-1 {
+    width: 33%;
+    height: 376px;
+    background: #4F9DA61A;
+    border-radius: 26px;
+    margin: 15px;
+    padding: 25px;
+}
+
+.mission-2 {
+    width: 33%;
+    height: 376px;
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 26px;
+    margin: 15px;
+    padding: 25px;
+}
+
+.mission-3 {
+    width: 33%;
+    height: 376px;
+    background: #FFF4D6;
+    border-radius: 26px;
+    margin: 15px;
+    padding: 25px;
+}
